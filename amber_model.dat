@@ -1,5 +1,0 @@
-source  oldff/leaprc.ff99SB
-ab_file = loadpdb ../data/model.pdb
-saveamberparm ab_file ../data/model.promtop ../data/model.inpcrd
-quit
-
